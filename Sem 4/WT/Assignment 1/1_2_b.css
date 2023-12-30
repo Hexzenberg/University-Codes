@@ -1,0 +1,18 @@
+h1{
+    text-align:center;
+}
+.p1{
+    color:blue;
+    background-color:green;
+    text-align: center;
+}
+.p2{
+    border-style:solid;
+    border-color: red;
+    margin: auto;
+    text-align: center;
+}
+.p3{
+    background-color:rgb(120,210,012);
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+<html>
+<head> 
+    <title>Q1 part 3(b)</title> 
+    <style>
+        .double-border{
+            border: 15px solid orange;
+            padding: 2em;
+            width: 16em;
+            height: 16em;
+            position: relative;
+            margin: 0 auto;
+        }
+        .double-border:before{
+            border: 15px solid cyan;
+            content: "";
+            display: block;
+            position: absolute;
+            top: 4px;
+            left: 4px;
+            right: 4px;
+            bottom: 4px;
+            outline: 4px solid cyan;
+        }
+    </style>
+</head>
+<body bgcolor="blue">
+    <header style="text-align: center;color: yellow;">Heading</header>
+    <p style="background-color: #dc2e2e;" class="double-border">Paragraph</p>
+</body>
+</html>

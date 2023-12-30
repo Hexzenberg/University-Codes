@@ -1,0 +1,4 @@
+Name of the student:abc
+Gender:Male
+Marks in phy,chem and math:
+45 46 47

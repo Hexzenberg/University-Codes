@@ -1,0 +1,29 @@
+h1{
+    text-align:center;
+}
+body{
+    background-color: yellow;
+}
+p{
+    text-align: center;
+    color: #0cf12a;
+}
+.double-border{
+  border: 15px solid orange;
+  padding: 2em;
+  width: 16em;
+  height: 16em;
+  position: relative;
+  margin: 0 auto;
+}
+.double-border:before{
+  border: 15px solid cyan;
+  content: "";
+  display: block;
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  right: 4px;
+  bottom: 4px;
+  outline: 4px solid cyan;
+}

@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "array": "c",
+        "string": "c",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "fstream": "cpp",
+        "type_traits": "cpp",
+        "random": "cpp",
+        "iosfwd": "cpp"
+    },
+    "liveServer.settings.port": 5501
+}

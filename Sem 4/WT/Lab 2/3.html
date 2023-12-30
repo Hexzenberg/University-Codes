@@ -1,0 +1,29 @@
+<html>
+<head>
+    <title>myCity</title>
+    <h1 style="color:blue">DELHI</h1>
+    <style>
+        #blink{
+            font-size: 20px;
+            font-weight: bold;
+            color: #2d38be;
+            transition: 0.2ms;
+        }
+    </style>
+</head>
+<body>
+    <p style="color:brown">Parliament</p>
+    <p style="color:red">Red Fort</p>
+    <p style="color:green">Qutumb Minar</p>
+    <p style="color:rgb(255, 200, 0)">Parliament</p>
+    <p style="color:greenyellow">KIIT</p>
+    <p id="blink">Blinks!</p>
+    <script>
+        var blink = document.getElementById('blink');
+        setInterval(function(){
+            blink.style.opacity=(blink.style.opacity==0?1:0);
+        },1500);
+    </script>
+    <p><marquee>Nice</marquee></p>
+</body>
+</html>

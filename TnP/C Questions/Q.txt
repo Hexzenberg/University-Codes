@@ -1,0 +1,70 @@
+1.  C Program to Check if a given String is Palindrome 
+2.  C Program to read two Strings & Concatenate the Strings 
+3.  C Program to Replace Lowercase Characters by Uppercase & Vice-Versa 
+4.  C Program to Count the Number of Vowels & Consonants in a Sentence 
+5.  C Program to Check if the Substring is present in the given String 
+6.  C Program to Accepts two Strings & Compare them 
+7.  C Program to Find the Length of a String without using the Built-in Function 
+8.  C Program to Check if a String is a Palindrome without using the Built-in Function 
+9.  C Program to Find the Frequency of the Word ‘the’ in a given Sentence 
+10.  C Program to Read a String and find the Sum of all Digits in the String 
+11.  C Program to Reverse the String using Recursion
+12.  C Program to Copy One String to Another using Recursion
+13.  C Program to find the First Capital Letter in a String using Recursion
+14.  C Program to find the First Capital Letter in a String without using Recursion
+15.  C Program to Check whether a given String is Palindrome or not using Recursion
+16.  C Program to Check whether two Strings are Anagrams
+17.  C Program to Count the Occurence of a Substring in String 
+18.  C Program to Remove given Word from a String 
+19.  C Program to Find Highest Frequency Character in a String 
+20.  C Program to Display every possible Combination of two Words or Strings from the input Strings 
+without Repeated Combinations 
+21.  C Program to Reverse every Word of given String 
+22.  C Program to List All Lines containing a given String 
+23.  C Program to Concatenate two Strings Lexically 
+24.  C Program to Print the Words Ending with Letter S 
+25.  C Program to Find the Sum of ASCII values of All Characters in a given String 
+26.  C Program to find Longer Repeating Sequence 
+27.  C Program to Replace all the Characters by Lowercase 
+28.  C Program to Count the Total Number of Words in the Sentence using Command Line Argument 
+29.  C Program to Insert Character/Word in any Desired Location in a String 
+30.  C Program to Find the First Occurence of the any Character of String2 in String1 
+31.  C Program to Implement Regular Expression Matching 
+32.  C Program to Implement strpbrk() Function 
+33.  C Program to Sort the String and Repeated Characters should be present only Once 
+34.  C Program to Find the Length of the Longest Repeating Sequence in a String 
+35.  C Program to Count the Number of Unique Words 
+36.  C Program to find the possible subsets of the String 
+37.  C Program to Search a Word & Replace it with the Specified Word 
+38.  C Program to find First and Last Occurrence of given Character in a String 
+39.  C Program to Display the Characters in Prime Position a given String 
+40.  C Program to Find All Possible Subsets of given Length in String 
+41.  C Program to Delete All Repeated Words in String 
+42.  C Program to Count Number of Words in a given Text Or Sentence 
+43.  C Program to Find the Frequency of Substring in the given String 
+44.  C Program to Find the Frequency of Every Word in a given String 
+45.  C Program to Sort Word in String 
+46.  C Program To Print Smallest and Biggest possible Word which is Palindrome in a given String 
+47.  C Program to Print Combination of two Words of two given Strings without any Repetition 
+48.  C Program to Sort String Ignoring Whitespaces and Repeating Characters Only Once 
+49.  C Program to Reverse the String using Both Recursion and Iteration 
+50.  C Program to Display Every Possible Combination of Two Words from the given 2 String without 
+displaying Repeated Combinations 
+51.  C Program to Accept 2 String & check whether all Characters in first String is Present in second 
+String & Print 
+52.  C Program to Check whether a given Character is present in a String, Find Frequency & Position of Occurrence 
+53.  C Program to Count the Number of Occurrence of each Character Ignoring the Case of Alphabets 
+Display them 
+54.  C Program to Count the Occurrences of each C Keyword using Array Structure 
+55.  C Program to Determine if One String is a Circular Permutation of Another String
+56.  C Program to Find the Consecutive Occurrence of any Vowel in a String 
+57.  C Program to Find the Largest & Smallest Word in a String 
+58.  C Program to Find the Most/Least Repeated Character in the String 
+59.  C Program to Implement the KMP Pattern Searching Algorithm 
+60.  C Program to Input 2 Binary Strings and Print their Binary Sum 
+61.  C Program to Input a String with at least one Number, Print the Square of all the Numbers in a 
+string 
+62.  C Program to Remove all Characters in Second String which are present in First String 
+63.  C Program which Converts an Integer to String & vice-versa 
+64.  C program that takes input as 2323 and gives output as 2332. ie. the new number should be 
+greater than the previous number but should have the same digits

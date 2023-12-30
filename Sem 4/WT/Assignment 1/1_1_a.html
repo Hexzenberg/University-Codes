@@ -1,0 +1,59 @@
+<html>
+<head>
+    <title>Bus Ticket Registration</title>
+    <link rel="stylesheet" href="1_1_a.css">
+</head>
+<body bgcolor=lightyellow>
+    <h1>Bus Ticket Form</h1>
+    <table>
+        <tr>
+            <td>Name:</td>
+            <td><input type="text" name="Name" maxlength="30"></td>
+        </tr>
+        <tr>
+            <td>Gender:</td>
+            <td><input type="radio" name="Gender" value="Male">Male<input type="radio" name="Gender" value="Female">Female</td>
+        </tr>
+        <tr>
+            <td>Age:</td>
+            <td><input type="checkbox" name="Age" value="below 5">Below 5<input type="checkbox" name="Age" value="5-30">5-30<input type="checkbox" name="Age" value="30-60">30-60<input type="checkbox" name="Age" value="60-80">60-80</td>
+        </tr>
+        <tr>
+            <td>Address:</td>
+            <td><textarea id="address" rows="3" cols="4"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>Any ID Proof:</td>
+            <td><input type="radio" name="ID" value="Voter ID">Voter ID<input type="radio" name="ID" value="Aadhar">Aadhar<input type="radio" name="ID" value="Driver License">Driver License</td>
+        </tr>
+        <tr>
+            <td>Date Of Journey</td>
+            <td><input type="date" name="date"></td>
+        </tr>
+        <tr>
+            <td>Mode Of Payment</td>
+            <td><input type="radio" name="mode" value="UPI">UPI<input type="radio" name="mode" value="Card">Credit/Debit Card<input type="radio" name="mode" value="NET">NET Banking</td>
+        </tr>
+        <tr>
+            <td>Feedback:</td>
+            <td><textarea id="address" rows="4" cols="4"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" name="submit" value="submit" onclick="openpop()">
+                <div class="popup" id="popup">
+                    <h2>Registration Success!</h2>
+                </div>
+            </td>
+        </tr>
+    </table>
+    <script>
+        let popup=document.getElementById("popup");
+        function openpop(){
+            popup.classList.add("open-popup");
+        }
+    </script>
+</body>
+</html>
